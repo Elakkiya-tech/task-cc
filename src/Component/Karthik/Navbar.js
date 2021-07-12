@@ -41,7 +41,7 @@ class Navbar extends  React.Component {
               </div>
 
            <div className="nav-pic">
-               <img src={nav1} className="nav1" style={{marginTop:"225px",left:"0", width:"1575px",height:"550px"}} alt=""></img>
+               <img src={nav1} className="nav1" style={{marginTop:"225px",left:"0", width:"1575px",height:"560px"}} alt=""></img>
            </div>
            <br/><br/><br/><br/>
            <div className="nav-content">
